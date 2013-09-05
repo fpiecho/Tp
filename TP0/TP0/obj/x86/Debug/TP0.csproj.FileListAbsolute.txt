@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrador\Escritorio\TP\TP0\TP0\bin\Debug\TP0.exe
+C:\Documents and Settings\Administrador\Escritorio\TP\TP0\TP0\bin\Debug\TP0.pdb
+C:\Documents and Settings\Administrador\Escritorio\TP\TP0\TP0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\TP\TP0\TP0\obj\x86\Debug\TP0.exe
+C:\Documents and Settings\Administrador\Escritorio\TP\TP0\TP0\obj\x86\Debug\TP0.pdb

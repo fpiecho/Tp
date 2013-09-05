@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\ActualQueue.cs" />
+    <Compile Include="Classes\DataNode.cs" />
+    <Compile Include="Classes\EmptyNode.cs" />
+    <Compile Include="Classes\INode.cs" />
+    <Compile Include="Classes\IQueue.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
