@@ -27,7 +27,7 @@ namespace TP0.Classes
 
         public INode Add(object data)
         {
-            this.nextNode = new DataNode(data);
+            this.nextNode = this.nextNode.Add(data);
             return this;
         }
 
