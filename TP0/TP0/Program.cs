@@ -23,7 +23,7 @@ namespace TP0
             queue.Remove();
             queue.Remove();
             queue.Remove();
-            queue.Remove();
+            queue.Add("5");
 
 
         }
