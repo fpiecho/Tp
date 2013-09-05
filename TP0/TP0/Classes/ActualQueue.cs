@@ -23,10 +23,6 @@ namespace TP0.Classes
         public void Add(object item)
         {
             this.firstNode = firstNode.Add(item);
-            if (this.IsEmpty)
-                this.firstNode = new DataNode(item);
-            else
-                this.firstNode.Add(item);
         }
 
         public void Remove()
